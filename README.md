@@ -1,4 +1,8 @@
-[![Test workflow for Python template](https://github.com/nogibjj/rd278-individual-project1/actions/workflows/pythonapp.yml/badge.svg?branch=main)](https://github.com/nogibjj/rd278-individual-project1/actions/workflows/pythonapp.yml)
+# Matrix testing
+
+This project test in versions 3.8,3.9 and 3.11
+
+[![Test workflow for Python template](https://github.com/nogibjj/rd278-w4-matrix-testing/actions/workflows/pythonapp.yml/badge.svg)](https://github.com/nogibjj/rd278-w4-matrix-testing/actions/workflows/pythonapp.yml)
 
 # Requirements
 The project structure must include the following files:
